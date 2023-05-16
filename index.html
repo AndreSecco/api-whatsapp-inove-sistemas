@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>WhatsApp Web</title>
+</head>
+<body>
+  <h1>WhatsApp Web</h1>
+  <button id="connectBtn">Conectar ao WhatsApp</button>
+  <div id="qrCodeContainer"></div>
+
+  <script>
+    document.getElementById('connectBtn').addEventListener('click', () => {
+      fetch('http://127.0.0.1:3000/')
+        .then(response => response.text())
+        .then(dataUrl => {
+          document.getElementById('qrCodeContainer').innerHTML = `<img src="${dataUrl}"/>`;
+        });
+    });
+  </script>
+</body>
+</html>

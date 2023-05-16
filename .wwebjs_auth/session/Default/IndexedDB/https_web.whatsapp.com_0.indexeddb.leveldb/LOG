@@ -1,0 +1,27 @@
+2023/05/11-09:45:46.061 4906 Reusing MANIFEST /home/andre/.dev/terminal-oficina-dev/src/components/api-whatsapp/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/11-09:45:46.062 4906 Recovering log #2435
+2023/05/11-09:45:46.137 4906 Reusing old log /home/andre/.dev/terminal-oficina-dev/src/components/api-whatsapp/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002435.log 
+2023/05/11-09:46:11.489 4905 Level-0 table #2463: started
+2023/05/11-09:46:11.523 4905 Level-0 table #2463: 917326 bytes OK
+2023/05/11-09:46:11.531 4905 Delete type=0 #2435
+2023/05/11-09:46:11.615 490a Compacting 1@0 + 0@1 files
+2023/05/11-09:46:11.657 490a Generated table #2464@0: 9882 keys, 374082 bytes
+2023/05/11-09:46:11.666 490a Generated table #2465@0: 1097 keys, 61068 bytes
+2023/05/11-09:46:11.666 490a Compacted 1@0 + 0@1 files => 435150 bytes
+2023/05/11-09:46:11.673 490a compacted to: files[ 0 3 27 0 0 0 0 ]
+2023/05/11-09:46:11.674 490a Delete type=2 #2463
+2023/05/11-09:46:14.185 490a Compacting 1@1 + 2@2 files
+2023/05/11-09:46:14.490 490a Generated table #2466@1: 48541 keys, 2233191 bytes
+2023/05/11-09:46:14.595 490a Generated table #2467@1: 28623 keys, 2181828 bytes
+2023/05/11-09:46:14.603 490a Generated table #2468@1: 157 keys, 116255 bytes
+2023/05/11-09:46:14.603 490a Compacted 1@1 + 2@2 files => 4531274 bytes
+2023/05/11-09:46:14.610 490a compacted to: files[ 0 2 28 0 0 0 0 ]
+2023/05/11-09:46:14.611 490a Delete type=2 #2452
+2023/05/11-09:46:14.611 490a Delete type=2 #2464
+2023/05/11-09:46:14.611 490a Delete type=2 #2451
+2023/05/11-09:46:49.224 490a Compacting 1@1 + 1@2 files
+2023/05/11-09:46:49.326 490a Generated table #2469@1: 22097 keys, 2215172 bytes
+2023/05/11-09:46:49.327 490a Compacted 1@1 + 1@2 files => 2215172 bytes
+2023/05/11-09:46:49.334 490a compacted to: files[ 0 1 28 0 0 0 0 ]
+2023/05/11-09:46:49.335 490a Delete type=2 #2443
+2023/05/11-09:46:49.335 490a Delete type=2 #2465
